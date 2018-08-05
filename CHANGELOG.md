@@ -8,7 +8,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 -->
 
 ## Current Glue-in Total
-73
+74
+
+## [1.1.0] - 2018-08-05
+
+### New Glue-ins
+- 2 Nephi 7:10-11
 
 ## [1.0.0] - 2018-08-04
 
