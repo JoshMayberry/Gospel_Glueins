@@ -12,7 +12,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.0.0] - 2018-08-04
 
-# New Glue-ins
+### New Glue-ins
 - Genesis 1:1, 6, 9, 14, 20, 24
 - Genesis 1:28
 - Genesis 3:1-6
