@@ -10,6 +10,8 @@ Small quotes to insert into your scriptures.
 
 Some might have some additional instructions/recommendations next to them. It is recommended you follow those instructions.
 
+Some pages might have multiple glueins. It is recommended you line up the bottom edge of all glueins that stack on top of each other, unless there is an instruction to the side that says to do otherwise.
+
 ## What to Print
 Print the file [printout.pdf. It can be downloaded here](https://github.com/JoshMayberry/Gospel_Glueins/blob/master/printout.pdf).
 It includes all of the glueins, tables, and pictures.
@@ -19,3 +21,10 @@ It is recommended you do not print from the source files, such as source.docx, b
 ## Can I Modify Them and/or Add my Own
 Of course you can.
 If you want those changes applied to the source file though, you will have to [submit a report in the Issues tab](https://github.com/JoshMayberry/Gospel_Glueins/issues/new) to let me know what you want added/modified.
+
+## How Can I Know What Changes have been made
+There are two places you can look.
+
+The first would be to [read the changelog, which can be found here](https://github.com/JoshMayberry/Gospel_Glueins/blob/master/CHANGELOG.md).
+
+The second would be to [look at the comments in the Commits sub-tab](https://github.com/JoshMayberry/Gospel_Glueins/commits/master). I would recommend using the first option though.
